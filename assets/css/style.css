@@ -1415,5 +1415,6 @@ phuket     background: linear-gradient(to right, #14b9d5 0%, #14d5b1 100%); */
   color: var(--text-color);
   font-size: 20px;
   display: inline-block;
+  text-transform: uppercase;
   padding: 8px 0;
 }
